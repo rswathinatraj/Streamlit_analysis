@@ -5,7 +5,7 @@ from collections import Counter
 import itertools
 
 # Load your data
-data = pd.read_csv("../GWU_result.csv")  # Replace with the actual path to your data
+data = pd.read_csv("./GWU_result.csv")  # Replace with the actual path to your data
 
 st.markdown("# Yonatan model Analysis")
 
